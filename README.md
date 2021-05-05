@@ -1,5 +1,5 @@
 # basic-django-app
-Базовое приложение Django с пользователями, авторизацией, регистрацией etc
+Basic Django application with users, authorization, registration, etc.
 
 *Install:*
 - python3 -m venv env
